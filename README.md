@@ -9,6 +9,7 @@
 ### **7. How to write proper commit's messages.** <br>
 ### **8. README.md files, learn creating this type of files and use it smartly. MARKDOWN.** <br>
 ### **9. Use Mermaid language schemes.** <br> <br>
+### **10. Use `git commit --amend --no-edit` or `git commit --amend -m "new message"` to edit last commit(HEAD).** <br> 
 ---
 
 
