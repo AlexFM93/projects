@@ -14,7 +14,7 @@
 
 ```mermaid
 graph LR;
-  untracked -- "git add --> staged;
+  untracked -- "git add" --> staged;
   staged    -- "???"    --> tracked/comitted;
 
 %% the arrow without any text for example:
