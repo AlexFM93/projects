@@ -10,3 +10,12 @@
 ### **8. README.md files, learn creating this type of files and use it smartly. MARKDOWN.** <br>
 ### **9. Use Mermaid language schemes.** <br> <br>
 ---
+
+```mermaid
+graph LR;
+untracked -- "git add --> staged;
+staged    -- "???"    --> tracked/comitted;
+
+%% the arrow without any text for example:
+  A --> B;
+```
