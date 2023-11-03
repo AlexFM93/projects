@@ -11,10 +11,11 @@
 ### **9. Use Mermaid language schemes.** <br> <br>
 ---
 
+
 ```mermaid
 graph LR;
-untracked -- "git add --> staged;
-staged    -- "???"    --> tracked/comitted;
+  untracked -- "git add --> staged;
+  staged    -- "???"    --> tracked/comitted;
 
 %% the arrow without any text for example:
   A --> B;
