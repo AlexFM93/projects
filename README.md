@@ -13,7 +13,9 @@
 ### **11.`git restore --staged <file>` and `git reset --hard <commit hash>` and `git restore <file>`** <br>
 ### **12. `git diff` and `git diff --staged` to see the difference.** <br>
 ### **13. `git diff` shows you the differences between modified; `git diff --staged` shows the differences btw in staged changes.
- and  there's `git diff <hash> <another hash>` that shows the changes btw commits with these hashes** <br>
+### and  there's `git diff <hash> <another hash>` that shows the changes btw commits with these hashes** <br>
+### **14. Create .gitignore file to ignore some files or directories. It will not be tracked. And commit .gitignore before that ** <br>
+### Use special rules to do that. Like *, **, /, #, ?, file[0-9].txt for example. <br>
 ---
 
 
