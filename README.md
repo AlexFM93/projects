@@ -12,6 +12,8 @@
 ### **10. Use `git commit --amend --no-edit` or `git commit --amend -m "new message"` to edit the last commit(HEAD).** <br>
 ### **11.`git restore --staged <file>` and `git reset --hard <commit hash>` and `git restore <file>`** <br>
 ### **12. `git diff` and `git diff --staged` to see the difference.** <br>
+### **13. `git diff` shows you the differences between modified; `git diff --staged` shows the differences btw in staged changes.
+ and  there's `git diff <hash> <another hash>` that shows the changes btw commits with these hashes** <br>
 ---
 
 
