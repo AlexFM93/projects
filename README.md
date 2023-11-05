@@ -16,6 +16,7 @@
 ### and  there's `git diff <hash> <another hash>` that shows the changes btw commits with these hashes** <br>
 ### **14. Create .gitignore file to ignore some files or directories. It will not be tracked. And commit .gitignore before that ** <br>
 ### Use special rules to do that. Like *, **, /, #, ?, file[0-9].txt for example. <br>
+### **15. To copy a remote repository use `git clone + <SSH-key of the repository>`. It connect a remote rep. and a local rep. automaticaly.** <br>
 ---
 
 
