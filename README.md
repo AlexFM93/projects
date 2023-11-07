@@ -19,6 +19,8 @@
 ### **15. To copy a remote repository use `git clone + <SSH-key of the repository>`. It connect a remote rep. and a local rep. automaticaly.** <br>
 ### **16. `git branch` shows you all branches. `git branch <branch_name>` to create a branch. `git checkout <branch_name>` to switch to a new branch.**
 ### **`git checkout -b <branch-name>` to create and switch to a new branch. ** <br>
+### **`git diff <branch_name> <anpther_branch_name>` shows the difference btw these branches. Or use a hash instead of branch_name.** <br>
+---
 ---
 
 
@@ -30,12 +32,3 @@ graph LR;
 %% the arrow without any text for example:
   A --> B;
 ```
-
-```mermaid
-graph LR;
-  untracked -- "git add" --> staged;
-  staged    -- "???"     --> tracked/comitted;
-
-%% стрелка без текста для примера: 
-  A --> B;
-``` 
