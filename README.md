@@ -1,5 +1,6 @@
 # Git and GitHub and co. <br> <br>
 ---
+---
 ### **1. Install Git(Bash)** <br>
 ### **2. Learn main commands to manipulate.** <br>
 ### **3. Create Git repository and memorize main commands.** <br>
@@ -20,6 +21,7 @@
 ### **16. `git branch` shows you all branches. `git branch <branch_name>` to create a branch. `git checkout <branch_name>` to switch to a new branch.**
 ### **`git checkout -b <branch-name>` to create and switch to a new branch. ** <br>
 ### **`git diff <branch_name> <anpther_branch_name>` shows the difference btw these branches. Or use a hash instead of branch_name.** <br>
+### **Use ~ to refer to the previous commits. For example: `git diff main~3 main` to compare the last commit(HEAD) in main branch and 4th commit from the end.** <br>
 ---
 ---
 
