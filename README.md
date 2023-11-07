@@ -17,6 +17,8 @@
 ### **14. Create .gitignore file to ignore some files or directories. It will not be tracked. And commit .gitignore before that ** <br>
 ### Use special rules to do that. Like *, **, /, #, ?, file[0-9].txt for example. <br>
 ### **15. To copy a remote repository use `git clone + <SSH-key of the repository>`. It connect a remote rep. and a local rep. automaticaly.** <br>
+### **16. `git branch` shows you all branches. `git branch <branch_name>` to create a branch. `git checkout <branch_name>` to switch to a new branch.**
+### **`git checkout -b <branch-name>` to create and switch to a new branch. ** <br>
 ---
 
 
