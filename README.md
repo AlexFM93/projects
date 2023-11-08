@@ -23,6 +23,7 @@
 ### **17.`git diff <branch_name> <anpther_branch_name>` shows the difference btw these branches. Or use a hash instead of branch_name.** <br>
 ### **18. Use ~ to refer to the previous commits. For example: `git diff main~3 main` to compare the last commit(HEAD) in main branch and 4th commit from the end.** <br>
 ### **19. `git merge <branch_name>` to merge(join) two branches together. For deleting a branch use a command `git branch -D <branch_name>` or a lighter variant with flag `-d`.** <br>
+### **20. For adding a branch to GitHub use `git push -u origin <not-a-main-branch>`. 
 ---
 ---
 
