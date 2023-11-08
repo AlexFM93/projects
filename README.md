@@ -24,6 +24,8 @@
 ### **18. Use ~ to refer to the previous commits. For example: `git diff main~3 main` to compare the last commit(HEAD) in main branch and 4th commit from the end.** <br>
 ### **19. `git merge <branch_name>` to merge(join) two branches together. For deleting a branch use a command `git branch -D <branch_name>` or a lighter variant with flag `-d`.** <br>
 ### **20. For adding a branch to GitHub use `git push -u origin <not-a-main-branch>`. 
+### **21. To merge your branch with the main in GitHub use PULL REQUEST by the link while push it first time or use GitHub interface to pull request, review code, comment it and cancel or merge it with the main branch.**<br>
+ 
 ---
 ---
 
