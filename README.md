@@ -26,6 +26,7 @@
 ### **20. For adding a branch to GitHub use `git push -u origin <not-a-main-branch>`. 
 ### **21. To merge your branch with the main in GitHub use PULL REQUEST by the link while push it first time or use GitHub interface to pull request, review code, comment it and cancel or merge it with the main branch.**<br>
 ### **22. `git pull` to get the changes from the remote repository.
+### **23. 
 ---
 ---
 
