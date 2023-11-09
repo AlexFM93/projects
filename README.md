@@ -29,7 +29,11 @@
 ### **23. If two branches are without conflicts and all commits may be put in one chain, these branches can be merged in fast-forward mode. You can turn the mode off using the flag `--no-ff`. **
 ### **`git merge --no-edit --no-ff <branch-name>`
 ### **24. `git push --force` can push your local branch to the remote one.WARNING: can be deleted some commits or the branch can be broken. Use it wisely.**
-### ** 
+### **25. There are several types of work with branches:**
+### **feature branch workflow - when every new feature or change is supposed to be in a new branch and can be merged in the main till completion. **
+### **git flow - more complicated variant, created more branches and all commits are divided on different types: fix,feature etc. Different commits are located in different branches.**
+### **trunk-based - populat in big companies, it is similar to feature branch workflow. Participants often merge their code in the main. E.g every day.**
+### 
 ---
 ---
 
