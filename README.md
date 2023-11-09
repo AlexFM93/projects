@@ -28,6 +28,8 @@
 ### **22. `git pull` to get the changes from the remote repository.
 ### **23. If two branches are without conflicts and all commits may be put in one chain, these branches can be merged in fast-forward mode. You can turn the mode off using the flag `--no-ff`. **
 ### **`git merge --no-edit --no-ff <branch-name>`
+### **24. `git push --force` can push your local branch to the remote one.WARNING: can be deleted some commits or the branch can be broken. Use it wisely.**
+### ** 
 ---
 ---
 
